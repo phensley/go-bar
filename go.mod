@@ -1,1 +1,1 @@
-module github.com/phensley/go-bar
+module github.com/phensley/go-bar/v3

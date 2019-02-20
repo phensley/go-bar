@@ -3,5 +3,5 @@ package bar
 import "fmt"
 
 func DoBar() {
-	fmt.Println("bar v2.0.0")
+	fmt.Println("bar v3.0.0")
 }
